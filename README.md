@@ -1,3 +1,3 @@
-- 👋 Hi, I’m changjam
+- 👋 Hi, I’m jam chang
 - 👀 I’m interested in website development
 - 🌱 I’m currently learning front-end technology. such like Vue.js、bootstrap and scss。
